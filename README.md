@@ -11,9 +11,7 @@
 1. Установите Python 3.x, если его еще нет на вашей системе.
 
 2. Создайте виртуальное окружение и войдите в него:
-python -m venv venv
-
-source venv/Scripts/activate
+"python -m venv venv" и войдите "source venv/Scripts/activate"
 
 4. Установите зависимости, выполнив следующую команду:
 pip install -r requirements.txt
