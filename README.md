@@ -15,7 +15,7 @@
 - `source venv/Scripts/activate`
 
 3. Установите зависимости, выполнив следующую команду:
-- `**python -m venv venv`
+- `python -m venv venv`
 
 ## Использование
 
